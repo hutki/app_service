@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/app_service/static/js/main.bfa4ef74.js",
+    "index.html": "/app_service/index.html",
+    "main.bfa4ef74.js.map": "/app_service/static/js/main.bfa4ef74.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bfa4ef74.js"
+  ]
+}
