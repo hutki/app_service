@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/YOUR_REPOSITORY_NAME/static/js/main.f19b22ce.js",
-    "index.html": "/YOUR_REPOSITORY_NAME/index.html",
-    "main.f19b22ce.js.map": "/YOUR_REPOSITORY_NAME/static/js/main.f19b22ce.js.map"
+    "main.js": "/app_service/static/js/main.bfa4ef74.js",
+    "index.html": "/app_service/index.html",
+    "main.bfa4ef74.js.map": "/app_service/static/js/main.bfa4ef74.js.map"
   },
   "entrypoints": [
-    "static/js/main.f19b22ce.js"
+    "static/js/main.bfa4ef74.js"
   ]
 }
