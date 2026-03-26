@@ -1,0 +1,13 @@
+{
+  "name": "equipment-request-app",
+  "version": "1.0.0",
+  "description": "Equipment Request Registration Web Application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix backend\" \"npm start --prefix frontend\"",
+    "setup": "node setup-dev.js"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

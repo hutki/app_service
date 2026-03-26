@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/YOUR_REPOSITORY_NAME/static/js/main.f19b22ce.js",
+    "index.html": "/YOUR_REPOSITORY_NAME/index.html",
+    "main.f19b22ce.js.map": "/YOUR_REPOSITORY_NAME/static/js/main.f19b22ce.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f19b22ce.js"
+  ]
+}
